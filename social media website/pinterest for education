@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>   <link rel="stylesheet" type="text/css" href="css/layout.css"> </head>
+
+<body>
+    <div class="nav">
+    <li><a href="index.html">home</a></li>
+        <li><a href="caution">Caution</a></li>
+        <li><a href="Contact.html"> contact</a></li>
+        <li><a href="how to use.html">how to use</a></li>
+        <li><a href="about.html"> about</a>
+            <ul>
+                <li><a href="What we do.html"> What we do </a></li>
+                <li><a href="For Students and Teachers.html">For Students and Teachers</a></li>
+            </ul>
+    </li>
+    <li><a href="Instagram.html">Instagram</a>
+        <ul>
+        <li><a href="Instagram for education.html">Instagram for education</a></li>
+        </ul>
+    </li>
+    <li><a href="Slack.html">For Students and Teachers</a>
+        <ul>
+            <li><a href="Slack for education.html">Slack for education</a></li>
+        
+        </ul>
+    </li>
+    <li><a href="Pinterest.html">Pinterest</a>
+        <ul>
+            <li><a href="Pinterest for education.html"> Pinterest for education</a></li>
+        </ul>
+    </li>
+    <li><a href="Youtube.html">Youtube</a>
+        <ul>
+            <li><a href="Youtube for education.html">Youtube for education</a></li>
+        </ul>
+    </li>
+    <li><a href="Whatsapp.html">Whatsapp</a>
+        <ul>
+            <li><a href="Whatsapp for education.html"> Whatsapp for education</a></li>
+        
+        </ul>
+    </li>
+    </div>
+    
+    <div class="pink">
+    
+        <h2> Teaching and Learning </h2>
+        <h3> Getting Ideas</h3><p> The best way to use Pinterest for educational purposes would be for getting ideas from the visuals on pinterest for project based learning and getting ideas from. Going onto pinterest and pinning stuitable material makes it mych easier for the student and the teacher.</p>
+        
+        <h3> Monitoring trends in education</h3><p> Pinterest is very 'trendy' and is a great way to monitor changing trends in social media.</p>
+        
+        <h3> Examples of work </h3><p> Students can use pinterest while doing an assingment or project so they know they are going i the right direction. Teachers can also use this as a way to show their students what is expected from them from past work.</p>
+        
+        <h3> Orgainising your Ideas </h3><p> Pinterest is a great way of keeping your ideas orgainised by putting them into folders and labelling them. This makes them easy to find and view very quickly.</p>
+        
+        <h3> Promoting</h3><p> Pinterest is a great way to show off your work by posting it. If you think it is worth sharing, others may think it is worth pinning.</p>
+        
+        <h3> Find Other Teachers</h3><p> Pinterest is a great way for teachers to find other teachers so they can share their ideas and tips with eachother.</p>
+        
+        <img src="pinterestlogo.jpg.jpg"width="400px"height="400px">
+    </div>
+
